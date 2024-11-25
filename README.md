@@ -7,7 +7,7 @@
 Earlier this year I completed a classic Macintosh Raspberry Pi 5 computer.  I had a lot of fun designing and building this.
 
 
-If you would like to check out that project, here it is.
+If you would like to check out that project, here it is: https://github.com/ryanmfransen/macpi
 
 
 I fell in love with that machine. It sat on my desk and I used it daily as my main desktop workstation. I really liked how it turned out and how useful it was.

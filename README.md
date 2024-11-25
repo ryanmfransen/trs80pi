@@ -105,7 +105,7 @@ There are three displays on the machine. The large main one, and two smaller  MI
 
 ![alt text](images/Displays.png)
 ![alt text](images/BackMiniDisplays.png)
-![alt text](images/MainLCDDIsplayDriver.png)
+![alt text](images/MainLCDDisplayDriver.png)
 
 
 ## Rapsberry Pi
